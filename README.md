@@ -1,4 +1,4 @@
-## Yo, I'm Jerry Yao 👋, you can also call me Jerry 🤗.
+## Yo, I'm Zheyu 👋, you can also call me Jerry 🤗.
 
 <!--
 **zyao197/zyao197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
