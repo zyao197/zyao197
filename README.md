@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo, I'm Jerry Yao 👋, you can also call me Jerry 🤗.
 
 <!--
 **zyao197/zyao197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zyao197&show_icons=true&\&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyao197&langs_count=8)
