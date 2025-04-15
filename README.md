@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <span>You are the </span>
   <img src="https://profile-counter.glitch.me/zyao197/count.svg" alt="hit counter" style="vertical-align: middle;">
-  <span> th visitor! 🎉</span>
 </div>
 
