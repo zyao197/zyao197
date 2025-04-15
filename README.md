@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 | <a href="https://github.com/zyao197"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyao197&show_icons=true&include_all_commits=true&rank_icon=github&theme=shadow_green&hide_border=true" alt="My github stats"/></a> | <a href="https://github.com/zyao197/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyao197&layout=compact&theme=shadow_green&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+<div align="center">
+<p></p>
+<img src="https://profile-counter.glitch.me/zyao197/count.svg" alt="hit counter" align="center">
+</div>
