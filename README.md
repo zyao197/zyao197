@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 
-<div align="center">
-<p>You are the</p>
-<img src="https://profile-counter.glitch.me/zyao197/count.svg" alt="hit counter" align="center">
-<p>th visitor! 🎉</p>
-</div>
+<p style="text-align: center;">
+  <span>You are the </span>
+  <img src="https://profile-counter.glitch.me/zyao197/count.svg" alt="hit counter" style="vertical-align: middle;">
+  <span> th visitor! 🎉</span>
+</p>
+
