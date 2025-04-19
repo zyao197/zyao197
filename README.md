@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About me
 - 👨‍🎓 I have just graduated from the University of Liverpool with a Master of Research in Pattern Recognition and Intelligent Systems.
-- 🔭 I’m currently working as an independent developer on my startup Divein2XYZ. I'm also looking for an RA or PhD position in EEG+AI.
+- 🔭 I’m currently working as an independent developer on my startup Divein2XYZ. I'm also seeking an RA or PhD opportunity in EEG+AI.
 - 🌱 Just launched my first iOS app — [Divein2Papers](https://apps.apple.com/us/app/divein2papers/id6742980068)! It helps you read the latest preprint papers during short breaks, like waiting for coffee ☕️📄.
 
 ### Overview of my GitHub stats
