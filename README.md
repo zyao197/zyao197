@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About me
 - 👨‍🎓 I have just graduated from the University of Liverpool with a Master of Research in Pattern Recognition and Intelligent Systems.
+-  🔭 I’m currently working as an independent developer on my startup Divein2XYZ. My first iOS app ![Divein2Papers](https://apps.apple.com/us/app/divein2papers/id6742980068) is now available on the App Store! It’s designed to help you make the most of short breaks—like waiting for a cup of coffee—by reading the latest preprint papers.
 
 ### Overview of my GitHub stats
 | <a href="https://github.com/zyao197"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyao197&show_icons=true&include_all_commits=true&rank_icon=github&theme=shadow_green&hide_border=true" alt="My github stats"/></a> | <a href="https://github.com/zyao197/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyao197&layout=compact&theme=shadow_green&hide_border=true" /></a> |
