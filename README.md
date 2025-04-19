@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-I have just graduated from the University of Liverpool with a Master of Research in Pattern Recognition and Intelligent Systems.
+- 👨‍🎓 I have just graduated from the University of Liverpool with a Master of Research in Pattern Recognition and Intelligent Systems.
 
 ### Overview of my GitHub stats
 | <a href="https://github.com/zyao197"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyao197&show_icons=true&include_all_commits=true&rank_icon=github&theme=shadow_green&hide_border=true" alt="My github stats"/></a> | <a href="https://github.com/zyao197/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyao197&layout=compact&theme=shadow_green&hide_border=true" /></a> |
